@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Calculadora de salário no Japão com IA generativas ! !!💵📆
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Neste pequeno projeto foi possível mostrar o quanto as IA conseguem nos ajudar a criar códigos de forma fácil e eficiente. Além de resolver bugs e outros erros de códigos possíveis.
+O objetivo desse projeto é criar um aplicativo capaz de solicitar o valor do salário/hora do empregado e os horários dos dias trabalhados, com base nisso, calcular qual o valor do salário final considerando horas extras e horário de almoço.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Utilizou-se a TabnineAI para ajudar na elaboração da lógica do programa e realizar os testes de código.
+Utilizou-se o ChatGPT para dar ideias de como elaborar um codigo eficiente que atendesse as demandas do cliente.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, foi criado um projeto utilizando o Visual Code, foi necessário implementar a extensão TabnineAI ao desenvolvedor para que fosse possível codar e ao mesmo tempo utilizar a IA. Devido ao curto espaço de tempo não foi possível criar uma interface gráfica, porém o projeto continuará em andamento após a entrega deste Projeto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aplicativo CalculatorSalary
+https://github.com/tetehoma/CalcMoney.git
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Interessante como a IA conseguiu me ajudar a desenvolver o código muito mais rápido e me deu dicas importantes sobre o funcionamento de algumas dependências, extensões e variáveis.
