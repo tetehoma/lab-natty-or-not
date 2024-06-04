@@ -1,6 +1,6 @@
 # Calculadora de salário no Japão com IA generativas ! !!💵📆
 ## 📒 Descrição
-Neste pequeno projeto foi possível mostrar o quanto as IA conseguem nos ajudar a criar códigos de forma fácil e eficiente. Além de resolver bugs e outros erros de códigos possíveis.
+Neste pequeno projeto foi possível mostrar o quanto as IA conseguem nos ajudar a criar códigos de forma fácil e eficiente, sendo que eu nunca programei em Python. Além de resolver bugs e outros erros de códigos possíveis.
 O objetivo desse projeto é criar um aplicativo capaz de solicitar o valor do salário/hora do empregado e os horários dos dias trabalhados, com base nisso, calcular qual o valor do salário final considerando horas extras e horário de almoço.
 ## 🤖 Tecnologias Utilizadas
 Utilizou-se a TabnineAI para ajudar na elaboração da lógica do programa e realizar os testes de código.
